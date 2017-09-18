@@ -22,7 +22,7 @@ public class NameFromEmail{
 
     char firstLetterOfFirstName = inputEmail.charAt(0);
     char firstletterOfLastName = inputEmail.charAt(indexOfDot + 1);
-    String upperCaseFirstNameLetter = "" + firstLetterOfFirstName.;
+    String upperCaseFirstNameLetter = "" + firstLetterOfFirstName;
     String upperCaseLastNameLetter = "" + firstletterOfLastName;
 
     upperCaseFirstNameLetter = upperCaseFirstNameLetter.toUpperCase();
