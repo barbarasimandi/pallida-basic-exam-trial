@@ -34,3 +34,4 @@ The application is accepted if:
 ###  What is the difference between id and class in CSS? [2p]
 #### Your answer: 
 [add your answer here]
+IDs have much greater specificity than CLASSes do. We select ids with # and classes with . . In html both are attributes but we also use them in css because of their different levels.
